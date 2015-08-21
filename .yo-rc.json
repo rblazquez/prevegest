@@ -1,0 +1,21 @@
+{
+  "generator-jhipster": {
+    "baseName": "preveges",
+    "packageName": "com.blacar.apps.preveges",
+    "packageFolder": "com/blacar/apps/preveges",
+    "authenticationType": "session",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "7",
+    "enableTranslation": false,
+    "rememberMeKey": "7e33c1ea878af9d63ed387cf911569cab19e8ea7"
+  }
+}
