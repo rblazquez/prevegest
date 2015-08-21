@@ -1,0 +1,2 @@
+# prevegest
+jhipster application
